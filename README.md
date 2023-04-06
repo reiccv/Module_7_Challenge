@@ -1,10 +1,12 @@
 # Module 7 Challenge
 
+In this Challenge assignment, ill build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+
 # Imports 
 
-# Create a Web Application for an ETF Analyzer
+![text]()
 
-In this Challenge assignment, ill build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+# Create a Web Application for an ETF Analyzer
 
 Instructions: 
 
@@ -21,3 +23,11 @@ The detailed instructions are divided into the following parts:
 * Analyze the ETF portfolio
 
 * Deploy the notebook as a web application
+
+
+![text]()
+
+![text]()
+
+![text]()
+
