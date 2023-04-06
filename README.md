@@ -4,7 +4,7 @@ In this Challenge assignment, ill build a financial database and web application
 
 # Imports 
 
-![text]()
+![text](https://github.com/reiccv/Module_7_Challenge/blob/main/images/imports.PNG)
 
 # Create a Web Application for an ETF Analyzer
 
@@ -25,9 +25,14 @@ The detailed instructions are divided into the following parts:
 * Deploy the notebook as a web application
 
 
-![text]()
+![text](https://github.com/reiccv/Module_7_Challenge/blob/main/images/analyze1.PNG)
 
-![text]()
+![text](https://github.com/reiccv/Module_7_Challenge/blob/main/images/analyze2.PNG)
 
-![text]()
+![text](https://github.com/reiccv/Module_7_Challenge/blob/main/images/analyze3.PNG)
 
+![text](https://github.com/reiccv/Module_7_Challenge/blob/main/images/optimize1.PNG)
+
+![text](https://github.com/reiccv/Module_7_Challenge/blob/main/images/optimize2.PNG)
+
+![text](https://github.com/reiccv/Module_7_Challenge/blob/main/images/final.PNG)
